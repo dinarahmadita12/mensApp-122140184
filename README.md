@@ -9,7 +9,7 @@ Aplikasi ini dirancang untuk membantu wanita dalam mengelola siklus haid, mencat
 - SQLAlchemy
 - Tailwind CSS 
 - Axios
-- 
+
 ### Fitur
 1. Kalender Siklus Menstruasi
 2. Mood Tracker & Symptom Tracker
