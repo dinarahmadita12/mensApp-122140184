@@ -7,8 +7,10 @@ Aplikasi ini dirancang untuk membantu wanita dalam mengelola siklus haid, mencat
 - Python >= 3.10
 - Pyramid (framework backend)
 - SQLAlchemy
+- psycopg2 (koneksi ke PostgreSQL)
+- PostgreSQL (basis data)
 - Tailwind CSS 
-- Axios
+- Axios (untuk request API dari frontend)
 
 ### Fitur
 1. Kalender Siklus Menstruasi
