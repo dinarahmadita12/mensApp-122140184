@@ -1,12 +1,27 @@
-# React + Vite
+## LUNA - Menstrual Cycle  Tracker Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Deskripsi Aplikasi
+Aplikasi ini dirancang untuk membantu wanita dalam mengelola siklus haid, mencatat gejala fisik dan emosional, serta meningkatkan kesadaran terhadap kesehatan reproduksi mereka. Dilengkapi dengan fitur-fitur utama seperti kalender siklus, mood tracker, symptom tracker, pengingat minum obat, tips kesehatan harian, dan latihan mindfulness, aplikasi ini memberikan pengalaman yang komprehensif dan personal. Setiap fitur dirancang agar saling terintegrasi, menyesuaikan dengan data harian pengguna untuk memberikan saran yang relevan. Selain itu, aplikasi menggunakan antarmuka yang bersih, intuitif, dan estetik dengan palet warna lembut yang feminin, sehingga nyaman digunakan dalam rutinitas harian.
 
-Currently, two official plugins are available:
+### Dependensi Paket (Library)
+- Python >= 3.10
+- Pyramid (framework backend)
+- SQLAlchemy
+- psycopg2 (koneksi ke PostgreSQL)
+- PostgreSQL (basis data)
+- Tailwind CSS 
+- Axios (untuk request API dari frontend)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Fitur
+1. Kalender Siklus Menstruasi
+2. Mood Tracker & Symptom Tracker
+3. Tips Kesehatan Harian
+4. Latihan Mindfulness
+5. Autentikasi & Privasi Pengguna
+6. UI Responsif dan User-Friendly
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Referensi 
+- National Institutes of Health - Menstrual Health
+- Pyramid Web Framework
+- PostgreSQL Official Site
+- Aplikasi referensi seperti Flo
